@@ -1,0 +1,28 @@
+{
+  "quests": [
+    {
+      "id": "q_xgjtlt79",
+      "title": "Stretch for 5 minutes",
+      "category": "health",
+      "difficulty": 1,
+      "createdAt": "2026-04-10T10:28:21.098Z",
+      "completedAt": null
+    },
+    {
+      "id": "q_xsjihwlg",
+      "title": "Drink 2 glasses of water right now",
+      "category": "health",
+      "difficulty": 3,
+      "createdAt": "2026-04-10T10:28:21.110Z",
+      "completedAt": null
+    },
+    {
+      "id": "q_0y3pgqhz",
+      "title": "Prepare tomorrow's outfit or workspace",
+      "category": "order",
+      "difficulty": 3,
+      "createdAt": "2026-04-10T10:28:21.113Z",
+      "completedAt": null
+    }
+  ]
+}
